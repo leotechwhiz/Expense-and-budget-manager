@@ -1,0 +1,4 @@
+This is a expenses and budget manager.
+created by leotechwhiz
+for managing expenses as well as bubget
+thank you
